@@ -3,4 +3,4 @@
 
 # DEMO
 
-https://richlii.github.io/SVG_Slide_CountDown_App/
+https://richlii.github.io/SVG_Slide_CountDown-App/
